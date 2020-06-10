@@ -1,0 +1,6 @@
+framework module Pods_SwiftAny {
+  umbrella header "Pods-SwiftAny-umbrella.h"
+
+  export *
+  module * { export * }
+}
